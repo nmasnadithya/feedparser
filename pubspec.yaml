@@ -6,10 +6,10 @@ authors:
 homepage: https://github.com/xqwzts/feedparser
 
 environment:
-  sdk: '>=1.21.0 <2.1.0'
+  sdk: '>=1.21.0 <3.0.0'
 
 dependencies:
-  xml: "^3.0.0-alpha"
+  xml: ^3.2.0
   
 dev_dependencies:
   test: "^1.3.0"
